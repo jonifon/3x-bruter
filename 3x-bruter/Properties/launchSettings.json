@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "3x-bruter": {
+      "commandName": "Project",
+      "commandLineArgs": "-b \"C:\\Users\\111\\Desktop\\Files\\Sourses\\C#\\3x-ui panel bruter\\3x-ui panel bruter\\bin\\Debug\\net8.0\\valid_ip.txt\""
+    }
+  }
+}
