@@ -13,7 +13,7 @@ The **3x-UI Brute Force Tool** is a command-line interface (CLI) application dev
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/3x-ui-bruter.git
+   git clone https://github.com/jonifon/3x-bruter.git
    cd 3x-ui-bruter
    ```
 2. **Build the Project:**
